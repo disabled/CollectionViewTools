@@ -2,7 +2,7 @@
 //  Copyright © 2017 Rosberry. All rights reserved.
 //
 
-import UIKit.UIScrollView
+import UIKit
 
 extension CollectionViewManager: UIScrollViewDelegate {
 

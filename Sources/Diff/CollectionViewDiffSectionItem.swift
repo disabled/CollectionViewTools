@@ -2,7 +2,7 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 /// `CollectionViewDiffSectionItem` is a composition of `CollectionViewSectionItem` and `DiffSectionItem`.
 /// Use it to create new section items or just conform `DiffSectionItem` protocol in your existing section items.

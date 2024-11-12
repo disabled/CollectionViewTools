@@ -2,7 +2,7 @@
 //  Copyright © 2017 Rosberry. All rights reserved.
 //
 
-import UIKit.UICollectionView
+import UIKit
 
 /// Base section item that conforms `CollectionViewSectionItem` protocol.
 open class GeneralCollectionViewSectionItem: CollectionViewSectionItem {

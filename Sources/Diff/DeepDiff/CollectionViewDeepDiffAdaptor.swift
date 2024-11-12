@@ -2,6 +2,7 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
+import UIKit
 import DeepDiff
 
 /// Adaptor that allows you to use DeepDiff with CollectionViewTools.

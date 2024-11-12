@@ -2,6 +2,8 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
+import UIKit
+
 /// A type that allows you to implement your own diff algorithm.
 public protocol CollectionViewDiffAdaptor {
 

@@ -2,6 +2,8 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
+import UIKit
+
 final class CollectionViewDiffResult {
 
     typealias SectionChanges = CollectionViewChanges<CollectionViewDiffSectionItem>

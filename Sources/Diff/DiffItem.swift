@@ -2,7 +2,7 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public typealias DiffCompatible = Equatable & CustomDebugStringConvertible
 

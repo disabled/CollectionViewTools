@@ -2,6 +2,8 @@
 //  Copyright © 2019 Rosberry. All rights reserved.
 //
 
+import UIKit
+
 /// Base object for `CollectionViewDelete` and `CollectionViewInsert`.
 public class CollectionViewDeleteInsertBase<T>: CustomStringConvertible {
 
